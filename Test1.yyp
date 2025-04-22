@@ -28,7 +28,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Test1",
   "resources":[
@@ -38,6 +38,7 @@
     {"id":{"name":"obj_textbox","path":"objects/obj_textbox/obj_textbox.yy",},},
     {"id":{"name":"obj_textevent","path":"objects/obj_textevent/obj_textevent.yy",},},
     {"id":{"name":"objCollisionTest","path":"objects/objCollisionTest/objCollisionTest.yy",},},
+    {"id":{"name":"Object18","path":"objects/Object18/Object18.yy",},},
     {"id":{"name":"objMoving","path":"objects/objMoving/objMoving.yy",},},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
     {"id":{"name":"objPlayerObject","path":"objects/objPlayerObject/objPlayerObject.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"objWallTR","path":"objects/objWallTR/objWallTR.yy",},},
     {"id":{"name":"par_speaker","path":"objects/par_speaker/par_speaker.yy",},},
     {"id":{"name":"rmTileDemo","path":"rooms/rmTileDemo/rmTileDemo.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"approach","path":"scripts/approach/approach.yy",},},
     {"id":{"name":"camera_set_view_pos_subpixel","path":"scripts/camera_set_view_pos_subpixel/camera_set_view_pos_subpixel.yy",},},
     {"id":{"name":"change_variable","path":"scripts/change_variable/change_variable.yy",},},
@@ -62,6 +64,7 @@
     {"id":{"name":"reset_dialogue_defaults","path":"scripts/reset_dialogue_defaults/reset_dialogue_defaults.yy",},},
     {"id":{"name":"round_n","path":"scripts/round_n/round_n.yy",},},
     {"id":{"name":"script_execute_alt","path":"scripts/script_execute_alt/script_execute_alt.yy",},},
+    {"id":{"name":"Script14","path":"scripts/Script14/Script14.yy",},},
     {"id":{"name":"tile_meeting","path":"scripts/tile_meeting/tile_meeting.yy",},},
     {"id":{"name":"use_tdmc","path":"scripts/use_tdmc/use_tdmc.yy",},},
     {"id":{"name":"snd_moveselect","path":"sounds/snd_moveselect/snd_moveselect.yy",},},
@@ -69,6 +72,7 @@
     {"id":{"name":"snd_voice1","path":"sounds/snd_voice1/snd_voice1.yy",},},
     {"id":{"name":"snd_voice2","path":"sounds/snd_voice2/snd_voice2.yy",},},
     {"id":{"name":"bkgTile","path":"sprites/bkgTile/bkgTile.yy",},},
+    {"id":{"name":"buttonbackground","path":"sprites/buttonbackground/buttonbackground.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
     {"id":{"name":"spr_dialoguebox","path":"sprites/spr_dialoguebox/spr_dialoguebox.yy",},},
     {"id":{"name":"spr_dialoguefinished","path":"sprites/spr_dialoguefinished/spr_dialoguefinished.yy",},},
@@ -85,6 +89,7 @@
     {"id":{"name":"sprEast","path":"sprites/sprEast/sprEast.yy",},},
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
+    {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
     {"id":{"name":"sprNorth","path":"sprites/sprNorth/sprNorth.yy",},},
     {"id":{"name":"sprRampBLCol","path":"sprites/sprRampBLCol/sprRampBLCol.yy",},},
     {"id":{"name":"sprRampBRCol","path":"sprites/sprRampBRCol/sprRampBRCol.yy",},},
@@ -105,6 +110,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rmTileDemo","path":"rooms/rmTileDemo/rmTileDemo.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
